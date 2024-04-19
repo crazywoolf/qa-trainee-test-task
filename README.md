@@ -1,0 +1,1 @@
+# qa-trainee-test-task
